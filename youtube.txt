@@ -1,8 +1,8 @@
 [Adblock Plus]
 ! Title: Jetro Blocking Youtube
-! Description: Blocks Youtube.
+! Description: Blocks Youtube Browser and Apps.
 ! Syntax: AdBlock
-! N
+!
 ||youtube.com^
 ||youtu.be^
 ||m.youtube.com^
