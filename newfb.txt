@@ -21,3 +21,10 @@
 ||connect.facebook.net^
 ||graph-fallback.facebook.com^
 ||web.facebook.com^
+||firebaselogging.googleapis.com^
+||graph.facebook.com^
+||traffic-nts-ip-assoc.xy.fbcdn.net^
+||traffic-nts-ip-assoc.xz.fbcdn.net^
+||graph.facebook.com^
+||connect.facebook.net^
+||chat-e2ee-mini.facebook.com^
