@@ -1,0 +1,13 @@
+[AdsBlocking
+! Description: Blocking Facebook
+!
+(^|\.)www\.facebook\.com$
+(^|\.)facebook\.com$
+(^|\.)fbcdn\.net$
+(^|\.)fbsbx\.com$
+(^|\.)tfbnw\.net$
+(^|\.)b-graph-fallback\.facebook\.com$
+(^|\.)z-m-gateway\.facebook\.com$
+(^|\.)chat-e2ee-mini\.facebook\.com$
+(^|\.)b-graph\.facebook\.com$
+(^|\.)graph\.facebook\.com$
